@@ -127,10 +127,10 @@
  
   /* ============ PAGE 2 : DETAILS SITE ============ */
   #page2{
-    position:relative; z-index:1;
-    background: var(--paper);
-    min-height:100dvh;
-  }
+  position:relative; z-index:1;
+  background: #fff;
+  min-height:100dvh;
+}
   .section{
     position:relative;
     padding: 90px 8% 70px;
